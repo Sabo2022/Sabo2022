@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Le Anh Tu
 - 👀 I’m interested in Design Game . Information technology
-- 🌱 I’m currently learning Artis , Modeling , IT
-- 💞️ I’m looking to collaborate on Unreal Engine
+
 - 📫 Contact Me : l.anhtu2022@gmail.com 
 
 
