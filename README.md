@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design Game . Information technology
 -
 - 📫 Contact Me : l.anhtu2022@gmail.com 
--  🇻🇳   I come from Vietnam
+-         I come from Vietnam
 
 
 <!---
