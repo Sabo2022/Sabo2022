@@ -3,7 +3,7 @@
 **Giới thiệu về bản thân:**
 
  - Tên thật của mình là: **Lê Anh Tú**
- - Mình đang là **Developer** của project [lise rise]
+ - Mình đang là **Developer** của project [Private]
 
 **Liên hệ:**
  
