@@ -1,4 +1,4 @@
-### Chào 👋, tớ là [Le Anh Tu](https://github.com/Sabo2022)
+### Chào 👋, tớ là [Le Anh Tu (Sabo) ](https://github.com/Sabo2022)
 
 **Giới thiệu về bản thân:**
 
