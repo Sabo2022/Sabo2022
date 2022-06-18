@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Le Anh Tu
-- 👀 I’m interested in Design Game . Information technology
--
-- 📫 Contact Me : l.anhtu2022@gmail.com 
--         I come from Vietnam
+### Chào 👋, tớ là [Le Anh Tu](https://github.com/Sabo2022)
 
+**Giới thiệu về bản thân:**
 
-<!---
-Sabo2022/Sabo2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - Tên thật của mình là: **Lê Anh Tú**
+ - Mình đang là **Developer** của project [lise rise]
+
+**Liên hệ:**
+ 
+ - ⭐⭐ Facebook: [Lê Anh Tú](https://www.facebook.com/LeAnhTu2022/)
+ - ⭐⭐ Youtube Channel: [Lê Anh Tú](https://www.youtube.com/channel/leanhtu)
+ - ⭐⭐ Email: [mazuong2022@gmail.com](mailto:mazuong2022@gmail.com)
+ - ⭐⭐ Github: [sabo2022](https://github.com/Sabo2022)
+
+**Github Stats**
