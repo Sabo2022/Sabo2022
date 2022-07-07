@@ -1,6 +1,5 @@
 # <p align="center">Lê Anh Tú</p>
 
-### Chào các bạn 👋
 <p align="center">
 	<a href="https://github.com/Sabo2022">
 	<img src="https://scontent.fpnh22-2.fna.fbcdn.net/v/t39.30808-6/185211799_558023298580599_7223999613037146878_n.jpg?stp=dst-jpg_s552x414&_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=VlXKKlqtUJQAX9u5mK5&_nc_ht=scontent.fpnh22-2.fna&oh=00_AT92Rpzl7P1chUsCfBIOeSgh8FA4m2Ls4f2Q_mB4DcF70w&oe=62CCB680" width = "200" alt="VTA">
@@ -10,7 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```C#
-**Liên hệ:**                     
+### Chào các bạn 👋                    
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
