@@ -9,7 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```C#
-# <p align="center">𝘾𝙝𝙖̀𝙤 𝙘𝙖́𝙘 𝙗𝙖̣𝙣 👋</p>                  
+!𝘾𝙝𝙖̀𝙤 𝙘𝙖́𝙘 𝙗𝙖̣𝙣 👋     
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
