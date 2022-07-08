@@ -24,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://sabo2022.github.io/ProfileWeb/">
+  <a href="https://sabo2022.github.io/LeAnhTu.Profile/">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
