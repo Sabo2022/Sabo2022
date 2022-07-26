@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/Sabo2022">
-	<img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-6/273887015_678780483171546_1748397417081053801_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JhIicp57iwsAX9SZH_A&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT8rRkTdriACZZZW1xJc1cSDz9cutX3xiZMopdKnrdZibA&oe=62E4A190">
+	<img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t39.30808-6/295086404_2379638882191744_7497790324181085487_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=B87hlvRvF6sAX9UxuFK&tn=jsGDCcMi933QAjqN&_nc_ht=scontent.fsgn2-1.fna&oh=00_AT8WFmDEJzJ6XWL6dbCV898tDuXdZABUbZ9YAe5mXJfSqg&oe=62E38AB3">
 	</a>
 </p>
 
