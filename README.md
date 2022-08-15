@@ -54,7 +54,7 @@
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Sabo2022/Snake/blob/main/Tu_Snake.svg">
 </p>
 
 <hr>
