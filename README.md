@@ -60,7 +60,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{sabo2022}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
-## <p align="center">GitHub Profile Trophy 🏆</p>
+## <p align="center">GitHub Profile Me 🏆</p>
 <hr>
 <br>
 
