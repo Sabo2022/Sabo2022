@@ -32,7 +32,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
-  <a href="mailto:mazuong2022@gmail.com">
+  <a href="mailto:leanhtu.sabo1@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
