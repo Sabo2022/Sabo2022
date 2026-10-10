@@ -52,14 +52,3 @@
 <p align='center'>
 <img src="https://github.com/Sabo2022/Snake/blob/main/Tu_Snake.svg">
 </p>
-## <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{sabo2022}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
-
-## <p align="center">GitHub Profile Me 🏆</p>
-<hr>
-<br>
-
-##
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
