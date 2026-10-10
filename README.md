@@ -48,11 +48,7 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
-
-## <p align="center">What I use :alien:</p>
-
 ## <p align="center">Just a snake eating my contributions 🐍</p>
-
 <p align='center'>
 <img src="https://github.com/Sabo2022/Snake/blob/main/Tu_Snake.svg">
 </p>
